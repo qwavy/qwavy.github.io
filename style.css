@@ -1,5 +1,51 @@
-.block{
-    height: 300px;
-    width: 300px;
-    background-color: aqua;
+.site{
+    display: grid;
+    grid-template-columns:104px 1300px ;
+    grid-template-rows: 100px 1300px;
+    grid-template-areas: 
+    'sidebar header'
+    'sidebar content'
+    'sidebar footer';
+}
+.header{
+    grid-area: header;
+    
+}
+.header form{
+    width: 400px;
+    height: 32px;
+    border: 1.5px solid #ADB5BD;
+    box-sizing: border-box;
+    border-radius: 2px;
+    margin-top: 20px;
+    margin-left:32px ;
+    margin-bottom: 20px;
+    color: #ADB5BD;
+}
+.header img{
+    width: 14px;
+    height: 14px;
+    margin:0px 0 20px 900px;
+    
+}
+.sidebar{
+    grid-area: sidebar;
+    background: #17139C;
+    padding-left: 34px;
+}
+.sidebar p{
+    width: 59px;
+    height: 16px;
+    color: #FFFFFF;
+    padding-right: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.main{
+    grid-area: main;
+    background: lightgray;
+}
+.footer{
+    grid-area: footer;
 }

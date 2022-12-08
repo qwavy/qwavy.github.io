@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5d5e577.css",
+    "main.js": "/static/js/main.edcb0582.js",
+    "static/media/design.png": "/static/media/design.b0db7b61211ae0d51702.png",
+    "static/media/photo.png": "/static/media/photo.9f8dfde35eb313f2a3ce.png",
+    "static/media/cap.png": "/static/media/cap.bb6c91181ce5e2b85127.png",
+    "static/media/hoodie.png": "/static/media/hoodie.9f2244c4f4845b7f47ec.png",
+    "static/media/samsung-galaxy-tab-8.png": "/static/media/samsung-galaxy-tab-8.13065d0afed2fb04b4bd.png",
+    "static/media/pullover.png": "/static/media/pullover.4e7ec95632af2688c80a.png",
+    "static/media/Sakura-Pigma Micron-Pigment Fineliner-Pens.png": "/static/media/Sakura-Pigma Micron-Pigment Fineliner-Pens.9dc6754ea36bdf8d161e.png",
+    "static/media/sofa.png": "/static/media/sofa.1fc2ab88dca216fbf9f9.png",
+    "static/media/sketch-book.png": "/static/media/sketch-book.08196d01872f80bb0bfb.png",
+    "static/media/tea_table.png": "/static/media/tea_table.2b1a3f0df04cefc3addf.png",
+    "static/media/single-seater.png": "/static/media/single-seater.d16a78d8d2641a90e9b9.png",
+    "static/media/Koda-Mini-Shot-Yellow.png": "/static/media/Koda-Mini-Shot-Yellow.48a9a43d0899d0391977.png",
+    "static/media/15 Pcs Artist Paint Brush Set Holder Acrylic.png": "/static/media/15 Pcs Artist Paint Brush Set Holder Acrylic.87f6f5182591a0067217.png",
+    "static/media/inalsa-air-fryer-fry.png": "/static/media/inalsa-air-fryer-fry.5834f7a8c965289dea53.png",
+    "static/media/smart-watch.png": "/static/media/smart-watch.7c85499a25ca3c7bbcdf.png",
+    "static/media/iphone-13.png": "/static/media/iphone-13.dc1baf511f2cb2c24b0b.png",
+    "static/media/table.png": "/static/media/table.5cf04bdaf0745c5aac30.png",
+    "static/media/UHUD-CRAFTS Beautiful-Antique.png": "/static/media/UHUD-CRAFTS Beautiful-Antique.2495eff3798bcbc71efe.png",
+    "static/media/Oneplus-Bullets Z2-Bluetooth.png": "/static/media/Oneplus-Bullets Z2-Bluetooth.251f8ba7a91963de72df.png",
+    "index.html": "/index.html",
+    "main.c5d5e577.css.map": "/static/css/main.c5d5e577.css.map",
+    "main.edcb0582.js.map": "/static/js/main.edcb0582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5d5e577.css",
+    "static/js/main.edcb0582.js"
+  ]
+}
